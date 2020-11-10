@@ -1,4 +1,4 @@
-package at.michaelkoenig.lab01_1.exception;
+package at.michaelkoenig.lab04_1.exception;
 
 import org.springframework.http.HttpStatus;
 

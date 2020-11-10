@@ -1,10 +1,10 @@
-package at.michaelkoenig.lab01_1;
+package at.michaelkoenig.lab04_1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Lab011ApplicationTests {
+class Lab041ApplicationTests {
 
 	@Test
 	void contextLoads() {

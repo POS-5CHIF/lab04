@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>at.michaelkoenig</groupId>
-	<artifactId>lab01_1</artifactId>
+	<artifactId>lab04_1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>lab01_1</name>
+	<name>lab04_1</name>
 	<description>Labor 01 Spring Rest Service</description>
 
 	<properties>
